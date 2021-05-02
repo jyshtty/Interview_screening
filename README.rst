@@ -6,6 +6,9 @@ Interview Screening
 **Implement a method to count how many possible ways Johan can run up the stairs.**
 
 
+SOLUTION
+--------
+
 
 +------------+------------+-----------+------------+------------+-----------+
 | []         | 0          | 1         | 2          | 3          | 4         |
