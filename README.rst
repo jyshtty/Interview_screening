@@ -9,6 +9,13 @@ Interview Screening
 SOLUTION
 --------
 
+- I am going to solve this using Dynamic Programming apprach.
+- HINT : Possible ways Johran can run up to n stairs is sum of (possible ways to reach n stair with 1 step and 2 step) + (possible ways to reach (n-3) stairs with 1, 2 step and 3 step) 
+
+Illustration 
+------------
+- when n = 4
+
 
 +------------+------------+-----------+------------+------------+-----------+
 | []         | 0          | 1         | 2          | 3          | 4         |
